@@ -1,4 +1,4 @@
-## Download PsExec
+## PsExec
 
 Updated: July 9, 2025         
 [**Download PsExec**](*)
